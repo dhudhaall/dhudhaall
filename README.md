@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there 👋 Its Umar here!.
 
-<!--
-**dhudhaall/dhudhaall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an experienced Front End Angular, React, Next.js developer with over 7 years of industry experience. Extensive experience in angular 2+, React, Next.js HTML, SCSS, CSS, Material UI, Bootstrap, implementing REST and GRAPHQL APIS in front end applications. 
 
-Here are some ideas to get you started:
+🔭 I have solid knowledge in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - Angular 2+/RxJS
+  - React
+  - Next js
+  - Angular Material
+  - Ngx Bootstrap
+  - JavaScript/ES6/TypeScript
+  - jQuery
+  - NodeJS
+  - Firebase
+  - MongoDB
+  - ExpressJS
+  - HTML5/CSS/Bootstrap/Sass
+
