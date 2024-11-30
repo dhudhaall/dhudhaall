@@ -1,6 +1,6 @@
 ## Hi there 👋 Its Umar here!.
 
-I am an experienced Front End Angular, React, Next.js developer with over 7 years of industry experience. Extensive experience in angular 2+, React, Next.js HTML, SCSS, CSS, Material UI, Bootstrap, implementing REST and GRAPHQL APIS in front end applications. 
+I am an experienced Front End Angular, React, Next.js developer with over 8 years of industry experience. Extensive experience in Angular 2+, React, Next.js HTML, SCSS, CSS, Material UI, Bootstrap, implementing REST and GRAPHQL APIS in front end applications. 
 
 🔭 I have solid knowledge in:
 
